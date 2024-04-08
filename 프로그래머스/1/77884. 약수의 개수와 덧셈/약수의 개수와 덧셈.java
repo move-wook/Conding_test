@@ -16,6 +16,7 @@ class Solution {
             }
         }
         */
+        //제곱근으로 약수 여부를 확인 할 수 있네
          int answer = 0;
         for (int i=left;i<=right;i++) {
             //제곱수인 경우 약수의 개수가 홀수
